@@ -1,0 +1,46 @@
+{
+  "name": "rails-assets-angular-moment",
+  "downloads": null,
+  "version": "0.8.2",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Moment.JS directives & filters for Angular.JS (timeago alternative)",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://github.com/urish/angular-moment",
+  "gem_uri": null,
+  "homepage_uri": "http://github.com/urish/angular-moment",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://github.com/urish/angular-moment",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-angular",
+      "requirements": ">= 1.0.0", "< 1.4.0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-moment",
+      "requirements": ">= 2.0.0", "< 2.9.0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

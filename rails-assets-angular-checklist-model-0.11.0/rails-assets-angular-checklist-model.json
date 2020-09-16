@@ -1,0 +1,39 @@
+{
+  "name": "rails-assets-angular-checklist-model",
+  "downloads": null,
+  "version": "0.11.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "AngularJS directive for list of checkboxes",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://vitalets.github.io/checklist-model",
+  "gem_uri": null,
+  "homepage_uri": "http://vitalets.github.io/checklist-model",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://vitalets.github.io/checklist-model",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-angular",
+      "requirements": ">= 1.0.8"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

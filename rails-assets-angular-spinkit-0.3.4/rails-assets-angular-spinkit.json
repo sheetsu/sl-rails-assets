@@ -1,0 +1,39 @@
+{
+  "name": "rails-assets-angular-spinkit",
+  "downloads": null,
+  "version": "0.3.4",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "SpinKit (https://github.com/tobiasahlin/SpinKit) spinners for AngularJS",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/Urigo",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/Urigo",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/Urigo",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-angular",
+      "requirements": ">= 0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

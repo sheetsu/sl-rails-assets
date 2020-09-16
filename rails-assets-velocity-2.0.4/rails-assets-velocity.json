@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-velocity",
+  "downloads": null,
+  "version": "2.0.4",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Accelerated JavaScript animation.",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://velocityjs.org/",
+  "gem_uri": null,
+  "homepage_uri": "http://velocityjs.org/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://velocityjs.org/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

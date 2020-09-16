@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-chart.js",
+  "downloads": null,
+  "version": "2.8.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Simple HTML5 charts using the canvas element.",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://www.chartjs.org/",
+  "gem_uri": null,
+  "homepage_uri": "https://www.chartjs.org/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://www.chartjs.org/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

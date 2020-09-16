@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-ng-rollbar",
+  "downloads": null,
+  "version": "2.4.2",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "AngularJS integration for Rollbar",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/tandibar/ng-rollbar",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/tandibar/ng-rollbar",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/tandibar/ng-rollbar",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

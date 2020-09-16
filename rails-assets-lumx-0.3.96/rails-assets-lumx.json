@@ -1,0 +1,74 @@
+{
+  "name": "rails-assets-lumx",
+  "downloads": null,
+  "version": "0.3.96",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "The first responsive front-end framework based on AngularJS & Google Material Design specifications",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://ui.lumapps.com/",
+  "gem_uri": null,
+  "homepage_uri": "http://ui.lumapps.com/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://ui.lumapps.com/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-angular",
+      "requirements": ">= 0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-velocity",
+      "requirements": ">= 0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-moment",
+      "requirements": ">= 0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-bourbon",
+      "requirements": ">= 0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-mdi",
+      "requirements": "1.2.65"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

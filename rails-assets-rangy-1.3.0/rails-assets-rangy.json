@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-rangy",
+  "downloads": null,
+  "version": "1.3.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "A cross-browser JavaScript range and selection library.",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/timdown/rangy",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/timdown/rangy",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/timdown/rangy",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}

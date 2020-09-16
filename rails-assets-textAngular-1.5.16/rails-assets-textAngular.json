@@ -1,0 +1,53 @@
+{
+  "name": "rails-assets-textAngular",
+  "downloads": null,
+  "version": "1.5.16",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "A radically powerful Text-Editor/Wysiwyg editor for Angular.js",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/fraywing/textAngular",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/fraywing/textAngular",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/fraywing/textAngular",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-angular",
+      "requirements": ">= 1.3"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-font-awesome",
+      "requirements": ">= 4.0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-rangy",
+      "requirements": "~> 1.3.0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
